@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <meta name="viewport" content="width=device-width, initial-scale=1" >
+  <title>SPECIALIZED CLINIC</title>
+</head>
+<body>
+  <header class="page-header" >
+    <ul class="logo-title" >
+      <li class="logo" >
+        <img src="images/logo.jpg" alt="">
+      </li>
+      <li class="title" >
+        <h3>SPECIALIZED CLINIC</h3>
+        <p>Physiotherapy - Rehabilitation</p>
+      </li>
+    </ul>
+    <ul class="contact" >
+      <li><img src="images/phone.jpg" alt=""></li>
+      <li>
+        <i>Question for the doctor?</i>
+      </li>
+      <li>
+        <b>05113941977</b>
+      </li>
+    </ul>
+  </header>
+  <main class="page-main" >
+    <nav class="navigation" >
+      <ul>
+        <li>
+          <a href="#" title="">Home</a>
+        </li>
+        <li>
+          <a href="#" title="">ABOUT US</a>
+        </li>
+        <li>
+          <a href="#" title="">HEALTH SERVICES</a>
+        </li>
+        <li>
+          <a href="#" title="">REGULAR MEDICINE</a>
+        </li>
+        <li>
+          <a href="#" title="">SET CALENDAR</a>
+        </li>
+        <li>
+          <a href="#" title="">CONSULT & CONTACT</a>
+        </li>
+      </ul>
+    </nav>
+    <nav class="breadcrumb" >
+      <ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">HEALTH SERVICES</a></li>
+      </ul>
+    </nav>
+    <section class="content-section" >
+      <aside class="aside-left" >
+        <div class="div-adults" >
+          <p>ADULTS <span>+</span></p>
+          <ul class="dropdown-aults" >
+            <li class="item-adults" >
+              <a href="#" title="" >Neck-shoulder-hand pain</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Spinal pain</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Disc hemiation</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Knee joint, hlp joint</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Footsore</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Diseases of the muscles</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Peripheral neuropathy</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Sequelae of stroke</a>
+            </li>
+            <li class="item-adults" >
+              <a href="#" title="" >Traumatic sequelae</a>
+            </li>
+          </ul>
+        </div>
+        <div class="div-adults" >
+          <p>CHILDREN <span>-</span></p>
+        </div>
+        <div class="BOOK SCHEDULE" >
+          <hr>
+          <form action="#" method="post" accept-charset="utf-8">
+            <input type="text" name="fullname" value="" placeholder="Full Name" >
+            <input type="text" name="address" value="" placeholder="Address" >
+            <input type="text" name="phone" value="" placeholder="Phone number" >
+            <input type="time" name="time" value="" placeholder="Time" >
+            <input type="submit" name="send-book-schedule" value="SEND" >
+          </form>
+        </div>
+      </aside>
+      <aside class="aside-right" >
+        <ul class="information" >
+          <li class="item-information" >
+            <img src="images/1.jpg" alt="">
+            <h4>NECK SHOULDER PAIN</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/2.jpg" alt="">
+            <h4>NECK SHOULDER PAIN</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/3.jpg" alt="">
+            <h4>NECK SHOULDER PAIN</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/4.jpg" alt="">
+            <h4>NECK SHOULDER PAIN</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/5.jpg" alt="">
+            <h4>SLOW SAY</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/6.jpg" alt="">
+            <h4>SLOW SAY</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/7.jpg" alt="">
+            <h4>SLOW SAY</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/8.jpg" alt="">
+            <h4>NECK SHOULDER PAIN</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+          <li class="item-information" >
+            <img src="images/9.jpg" alt="">
+            <h4>NECK SHOULDER PAIN</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span>&#8594;</span>
+          </li>
+        </ul>
+      </aside>
+    </section>
+  </main>
+  <footer class="page-footer" >
+    <div class="navigation-footer" >
+      <div class="about-us" >
+        <h3>ABOUT US</h3>
+        <ul class="ul-about-us" >
+          <li>GENERAL INTRODUCTION</li>
+          <li>HUMAN</li>
+          <li>FACILITIES AND FACILITIES</li>
+        </ul>
+      </div>
+      <div class="support" >
+        <h3>SUPPORT</h3>
+        <ul class="ul-support" >
+          <li>HEALTH COUNSELING</li>
+          <li>REGULAR MEDICINE</li>
+          <li>SCHEDULE APPOINTMENTS</li>
+        </ul>
+      </div>
+      <div class="social" >
+        <h3>SOCIAL CONNECTION</h3>
+        <ul class="ul-social" >
+          <li>
+            <img src="images/facebook-24.png" alt="">
+            <span>FACEBOOK</span>
+          </li>
+          <li>
+            <img src="images/google_plus-24.png" alt="">
+            <span>GOOGLE+</span>
+          </li>
+          <li>
+            <img src="images/youtube-24.png" alt="">
+            <span>YOUTUBE</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <hr class="footer__divider" >
+    <div class="compyright-design" >
+      <p>@ 2018 - COPYRIGHT OF SPECIALIZED CLINIC</p>
+      <p>DESIGN BY <a href="#" title="" >DD.com</a></p>
+    </div>
+  </footer>
+</body>
+</html>
