@@ -2,242 +2,296 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <meta name="viewport" content="width=device-width, initial-scale=1" >
-  <title>SPECIALIZED CLINIC</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Specialized clinic</title>
 </head>
 <body>
-  <header class="page-header" >
-    <ul class="logo-title" >
-      <li class="logo" >
+  <header class="page-header">
+    <div class="logo-left" >
+      <a href="#">
         <img src="images/logo.jpg" alt="">
-      </li>
-      <li class="title" >
-        <h3>SPECIALIZED CLINIC</h3>
-        <p>Physiotherapy - Rehabilitation</p>
-      </li>
-    </ul>
-    <ul class="contact" >
-      <li><img src="images/phone.jpg" alt=""></li>
-      <li>
-        <i>Question for the doctor?</i>
-      </li>
-      <li>
-        <b>05113941977</b>
-      </li>
-    </ul>
+      </a>
+      <h1>
+        <a href="#">SPECIALIZED CLINIC</a>
+      </h1>
+      <span>Physiotherapy - Rehabilitation</span>
+    </div>
+    <div class="contact-rigth" >
+      <img src="images/phone.jpg" alt="">
+      <span>Question for the doctor?</span>
+      <span>05113941 977</span>
+    </div>
   </header>
-  <main class="page-main" >
-    <nav class="navigation" >
-      <ul>
-        <li>
-          <a href="#" title="">Home</a>
+  <main class="page-main">
+    <nav class="navigation">
+      <ul class="navigation-menu">
+        <li class="menu-item">
+          <a href="#" title="Home">Home</a>
         </li>
-        <li>
-          <a href="#" title="">ABOUT US</a>
+        <li class="menu-item">
+          <a href="#" title="About us">About us</a>
         </li>
-        <li>
-          <a href="#" title="">HEALTH SERVICES</a>
+        <li class="menu-item">
+          <a href="#" title="Health services">Health services</a>
         </li>
-        <li>
-          <a href="#" title="">REGULAR MEDICINE</a>
+        <li class="menu-item">
+          <a href="#" title="Regular medicine">Regular medicine</a>
         </li>
-        <li>
-          <a href="#" title="">SET CALENDAR</a>
+        <li class="menu-item">
+          <a href="#" title="Set calendar">Set calendar</a>
         </li>
-        <li>
+        <li class="menu-item">
           <a href="#" title="">CONSULT & CONTACT</a>
         </li>
       </ul>
-    </nav>
-    <nav class="breadcrumb" >
-      <ul>
-        <li><a href="#">HOME</a></li>
-        <li><a href="#">HEALTH SERVICES</a></li>
+      <ul class="navigation-contact">
+        <li class="contact-item" >
+          <img src="images/facebook-24.png" alt="None">
+        </li>
+        <li class="contact-item" >
+          <img src="images/google_plus-24.png" alt="None">
+        </li>
+        <li class="contact-item" >
+          <img src="images/youtube-24.png" alt="None">
+        </li>
       </ul>
     </nav>
-    <section class="content-section" >
-      <aside class="aside-left" >
-        <div class="div-adults" >
-          <p>ADULTS <span>+</span></p>
-          <ul class="dropdown-aults" >
-            <li class="item-adults" >
-              <a href="#" title="" >Neck-shoulder-hand pain</a>
+    <nav class="breadcrumb">
+      <ul class="breadcrumb-list">
+        <li class="breadcrumb-item" >
+          <a href="#">HOME</a></li>
+        <li class="breadcrumb-item"><a href="#">HEALTH SERVICES</a></li>
+      </ul>
+    </nav>
+    <section class="content-section">
+      <aside class="aside-left">
+        <div class="adults">
+          <p>ADULTS <span class="btn-sub" >-</span></p>
+          <ul class="dropdown-aults">
+            <li class="item-adults">
+              <a href="#" title="Neck-shoulder-hand pain" >Neck-shoulder-hand pain</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Spinal pain</a>
+            <li class="item-adults">
+              <a href="#" title="Spinal pain" >Spinal pain</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Disc hemiation</a>
+            <li class="item-adults">
+              <a href="#" title="Disc hemiation" >Disc hemiation</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Knee joint, hlp joint</a>
+            <li class="item-adults">
+              <a href="#" title="Knee joint, hlp joint" >Knee joint, hlp joint</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Footsore</a>
+            <li class="item-adults">
+              <a href="#" title="Footsore" >Footsore</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Diseases of the muscles</a>
+            <li class="item-adults">
+              <a href="#" title="Diseases of the muscles" >Diseases of the muscles</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Peripheral neuropathy</a>
+            <li class="item-adults">
+              <a href="#" title="Peripheral neuropathy" >Peripheral neuropathy</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Sequelae of stroke</a>
+            <li class="item-adults">
+              <a href="#" title="Sequelae of stroke" >Sequelae of stroke</a>
             </li>
-            <li class="item-adults" >
-              <a href="#" title="" >Traumatic sequelae</a>
+            <li class="item-adults">
+              <a href="#" title="Traumatic sequelae" >Traumatic sequelae</a>
             </li>
           </ul>
         </div>
-        <div class="div-adults" >
-          <p>CHILDREN <span>-</span></p>
+        <div class="adults">
+          <p>Children <span class="btn-add">+</span></p>
         </div>
-        <div class="BOOK SCHEDULE" >
-          <hr>
-          <form action="#" method="post" accept-charset="utf-8">
-            <input type="text" name="fullname" value="" placeholder="Full Name" >
-            <input type="text" name="address" value="" placeholder="Address" >
-            <input type="text" name="phone" value="" placeholder="Phone number" >
-            <input type="time" name="time" value="" placeholder="Time" >
-            <input type="submit" name="send-book-schedule" value="SEND" >
+        <div class="book_schedule">
+          <form action="#" method="post">
+            <input type="text" name="fullname" value="" placeholder="Full Name">
+            <input type="text" name="address" value="" placeholder="Address">
+            <input type="text" name="phone" value="" placeholder="Phone number">
+            <input type="time" name="time" value="" placeholder="Time">
+            <input type="submit" name="send-book-schedule" value="SEND">
           </form>
         </div>
       </aside>
-      <aside class="aside-right" >
-        <ul class="information" >
-          <li class="item-information" >
-            <img src="images/1.jpg" alt="">
-            <h4>NECK SHOULDER PAIN</h4>
+      <div class="content-section">
+        <ul class="information">
+          <li class="item-information">
+            <a href="#">
+              <img src="images/1.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#">Neck Shoulder pain</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
+          </li>
+          <li class="item-information">
+            <a href="#">
+              <img src="images/2.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#">Neck shoulder pain</a>
+            </h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna
+            </p>
+            <span class="btn-next">&#8594;</span>
           </li>
           <li class="item-information" >
-            <img src="images/2.jpg" alt="">
-            <h4>NECK SHOULDER PAIN</h4>
+            <a href="#">
+              <img src="images/3.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#">Neck shoulder pain</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
-          <li class="item-information" >
-            <img src="images/3.jpg" alt="">
-            <h4>NECK SHOULDER PAIN</h4>
+          <li class="item-information">
+            <a href="#" >
+              <img src="images/4.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#" >Neck shoulder pain</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
-          <li class="item-information" >
-            <img src="images/4.jpg" alt="">
-            <h4>NECK SHOULDER PAIN</h4>
+          <li class="item-information">
+            <a href="#">
+              <img src="images/5.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#" >Slow say</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
-          <li class="item-information" >
-            <img src="images/5.jpg" alt="">
-            <h4>SLOW SAY</h4>
+          <li class="item-information">
+            <a href="#">
+              <img src="images/6.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#" >Slow say</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
-          <li class="item-information" >
-            <img src="images/6.jpg" alt="">
-            <h4>SLOW SAY</h4>
+          <li class="item-information">
+            <a href="#">
+              <img src="images/7.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#">Slow say</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
-          <li class="item-information" >
-            <img src="images/7.jpg" alt="">
-            <h4>SLOW SAY</h4>
+          <li class="item-information">
+            <a href="#">
+              <img src="images/8.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#">Neck shoulder pain</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
-          <li class="item-information" >
-            <img src="images/8.jpg" alt="">
-            <h4>NECK SHOULDER PAIN</h4>
+          <li class="item-information">
+            <a href="#">
+              <img src="images/9.jpg" alt="None">
+            </a>
+            <h4>
+              <a href="#">Neck shoulder pain</a>
+            </h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur
               adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna
             </p>
-            <span>&#8594;</span>
-          </li>
-          <li class="item-information" >
-            <img src="images/9.jpg" alt="">
-            <h4>NECK SHOULDER PAIN</h4>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur
-              adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna
-            </p>
-            <span>&#8594;</span>
+            <span class="btn-next">&#8594;</span>
           </li>
         </ul>
-      </aside>
+      </div>
     </section>
   </main>
-  <footer class="page-footer" >
-    <div class="navigation-footer" >
-      <div class="about-us" >
-        <h3>ABOUT US</h3>
-        <ul class="ul-about-us" >
-          <li>GENERAL INTRODUCTION</li>
-          <li>HUMAN</li>
-          <li>FACILITIES AND FACILITIES</li>
-        </ul>
-      </div>
-      <div class="support" >
-        <h3>SUPPORT</h3>
-        <ul class="ul-support" >
-          <li>HEALTH COUNSELING</li>
-          <li>REGULAR MEDICINE</li>
-          <li>SCHEDULE APPOINTMENTS</li>
-        </ul>
-      </div>
-      <div class="social" >
-        <h3>SOCIAL CONNECTION</h3>
-        <ul class="ul-social" >
+  <footer class="page-footer">
+    <ul class="navigation-footer">
+      <li class="column">
+        <h3>About us</h3>
+        <ul class="column-item">
           <li>
-            <img src="images/facebook-24.png" alt="">
-            <span>FACEBOOK</span>
+            <a href="#">General introduction</a>
           </li>
           <li>
-            <img src="images/google_plus-24.png" alt="">
-            <span>GOOGLE+</span>
+            <a href="#">Human</a>
           </li>
           <li>
-            <img src="images/youtube-24.png" alt="">
-            <span>YOUTUBE</span>
+            <a href="#">Facilities and facilities</a>
           </li>
         </ul>
-      </div>
-    </div>
-    <hr class="footer__divider" >
-    <div class="compyright-design" >
+      </li>
+      <li class="column">
+        <h3>Support</h3>
+        <ul class="column-item" >
+          <li>Health counseling</li>
+          <li>Regular medicine</li>
+          <li>Schedule appointments</li>
+        </ul>
+      </li>
+      <li class="column">
+        <h3>Social connection</h3>
+        <ul class="column-item" >
+          <li>
+            <img src="images/facebook-24.png" alt="Facebook">
+            <a href="#">
+              <span>Facebook</span>
+            </a>
+          </li>
+          <li>
+            <img src="images/google_plus-24.png" alt="Google+">
+            <a href="#">
+              <span>Google+</span>
+            </a>
+          </li>
+          <li>
+            <img src="images/youtube-24.png" alt="Youtube">
+            <a href="#">
+              <span>Youtube</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <div class="copyright-design" >
       <p>@ 2018 - COPYRIGHT OF SPECIALIZED CLINIC</p>
       <p>DESIGN BY <a href="#" title="" >DD.com</a></p>
     </div>
